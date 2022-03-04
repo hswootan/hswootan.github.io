@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hwoo.github.io/es/categories/</loc>
+    <loc>https://hwoo.github.io/en/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hwoo.github.io/en/categories/"
+                href="https://hwoo.github.io/en/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hwoo.github.io/es/categories/"
+                href="https://hwoo.github.io/en/es/categories/"
                 />
   </url><url>
-    <loc>https://hwoo.github.io/es/</loc>
+    <loc>https://hwoo.github.io/en/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hwoo.github.io/en/"
+                href="https://hwoo.github.io/en/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hwoo.github.io/es/"
+                href="https://hwoo.github.io/en/es/"
                 />
   </url><url>
-    <loc>https://hwoo.github.io/es/series/</loc>
+    <loc>https://hwoo.github.io/en/es/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hwoo.github.io/en/series/"
+                href="https://hwoo.github.io/en/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hwoo.github.io/es/series/"
+                href="https://hwoo.github.io/en/es/series/"
                 />
   </url><url>
-    <loc>https://hwoo.github.io/es/tags/</loc>
+    <loc>https://hwoo.github.io/en/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hwoo.github.io/en/tags/"
+                href="https://hwoo.github.io/en/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hwoo.github.io/es/tags/"
+                href="https://hwoo.github.io/en/es/tags/"
                 />
   </url>
 </urlset>

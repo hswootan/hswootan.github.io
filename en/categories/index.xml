@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on sak3</title>
-    <link>https://hwoo.github.io/en/categories/</link>
+    <link>https://hwoo.github.io/en/en/categories/</link>
     <description>Recent content in Categories on sak3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2022 sak3, All Rights Reserved</copyright>
     
-        <atom:link href="https://hwoo.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hwoo.github.io/en/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
