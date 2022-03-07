@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hswootan.github.io/hwoo.github.io/en/</loc>
-    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -13,6 +13,25 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hswootan.github.io/hwoo.github.io/en/"
+                />
+  </url><url>
+    <loc>https://hswootan.github.io/hwoo.github.io/en/posts/2/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/hwoo.github.io/en/tags/oscp/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/hwoo.github.io/en/tags/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://hswootan.github.io/hwoo.github.io/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://hswootan.github.io/hwoo.github.io/en/tags/"
                 />
   </url><url>
     <loc>https://hswootan.github.io/hwoo.github.io/en/posts/</loc>
@@ -46,18 +65,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://hswootan.github.io/hwoo.github.io/en/series/"
-                />
-  </url><url>
-    <loc>https://hswootan.github.io/hwoo.github.io/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://hswootan.github.io/hwoo.github.io/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hswootan.github.io/hwoo.github.io/en/tags/"
                 />
   </url>
 </urlset>

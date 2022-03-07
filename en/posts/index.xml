@@ -19,18 +19,48 @@
 
       
       <item>
+        <title>Hackthebox - Brainfuck</title>
+        <link>https://hswootan.github.io/hwoo.github.io/en/posts/2/</link>
+        <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 07 Mar 2022 00:00:00 +0000</atom:modified>
+        <guid>https://hswootan.github.io/hwoo.github.io/en/posts/2/</guid>
+        <description>Reconnaissance 1  nmap -sC -sV -O -vv 10.10.10.17 -oA brainfuck   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66  PORT STATE SERVICE REASON VERSION 22/tcp open ssh syn-ack ttl 63 OpenSSH 7.</description>
+        
+        <dc:creator>Hong</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>OSCP</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Hackthebox - Lame</title>
         <link>https://hswootan.github.io/hwoo.github.io/en/posts/firstpost/</link>
         <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
         
         <atom:modified>Thu, 03 Mar 2022 00:00:00 +0000</atom:modified>
         <guid>https://hswootan.github.io/hwoo.github.io/en/posts/firstpost/</guid>
-        <description>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61  nmap -sC -sV -vv 10.10.10.3 -oN lame.nmap # Scan results # Nmap 7.</description>
+        <description>Reconnaissance 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61  nmap -sC -sV -vv 10.10.10.3 -oN lame.</description>
         
         <dc:creator>Hong</dc:creator>
+        <media:content url="https://hswootan.github.io/hwoo.github.io/https://www.freecodecamp.org/news/content/images/2019/08/Screenshot-2019-08-01-at-20.39.48.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
+        <media:content url="https://hswootan.github.io/hwoo.github.io/https://www.freecodecamp.org/news/content/images/2019/08/Screenshot-2019-08-01-at-20.39.48.png" medium="image"><media:title type="html">meta image</media:title></media:content>
         
-        
+          
+            
+              <category>OSCP</category>
+            
+          
         
         
         
