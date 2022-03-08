@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hswootan.github.io/hwoo.github.io/es/categories/</loc>
+    <loc>https://hswootan.github.io/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hswootan.github.io/hwoo.github.io/en/categories/"
+                href="https://hswootan.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hswootan.github.io/hwoo.github.io/es/categories/"
+                href="https://hswootan.github.io/es/categories/"
                 />
   </url><url>
-    <loc>https://hswootan.github.io/hwoo.github.io/es/</loc>
+    <loc>https://hswootan.github.io/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hswootan.github.io/hwoo.github.io/en/"
+                href="https://hswootan.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hswootan.github.io/hwoo.github.io/es/"
+                href="https://hswootan.github.io/es/"
                 />
   </url><url>
-    <loc>https://hswootan.github.io/hwoo.github.io/es/series/</loc>
+    <loc>https://hswootan.github.io/es/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hswootan.github.io/hwoo.github.io/en/series/"
+                href="https://hswootan.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hswootan.github.io/hwoo.github.io/es/series/"
+                href="https://hswootan.github.io/es/series/"
                 />
   </url><url>
-    <loc>https://hswootan.github.io/hwoo.github.io/es/tags/</loc>
+    <loc>https://hswootan.github.io/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hswootan.github.io/hwoo.github.io/en/tags/"
+                href="https://hswootan.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://hswootan.github.io/hwoo.github.io/es/tags/"
+                href="https://hswootan.github.io/es/tags/"
                 />
   </url>
 </urlset>
