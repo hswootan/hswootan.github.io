@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hswootan.github.io/en/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -15,17 +15,23 @@
                 href="https://hswootan.github.io/en/"
                 />
   </url><url>
-    <loc>https://hswootan.github.io/en/series/hackthebox/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <loc>https://hswootan.github.io/en/tags/cve/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hswootan.github.io/en/posts/2/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <loc>https://hswootan.github.io/en/series/hackthebox/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/posts/nibbles/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/linux/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hswootan.github.io/en/tags/oscp/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hswootan.github.io/en/series/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -37,8 +43,11 @@
                 href="https://hswootan.github.io/en/series/"
                 />
   </url><url>
+    <loc>https://hswootan.github.io/en/tags/sudo/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hswootan.github.io/en/tags/</loc>
-    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -50,10 +59,52 @@
                 href="https://hswootan.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://hswootan.github.io/en/posts/</loc>
-    <lastmod>2022-03-03T00:00:00+00:00</lastmod>
+    <loc>https://hswootan.github.io/en/tags/user-enumeration/</loc>
+    <lastmod>2022-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hswootan.github.io/en/posts/firstpost/</loc>
+    <loc>https://hswootan.github.io/en/tags/apache/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/posts/bashed/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/metasploit/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/os-command-injection/</loc>
+    <lastmod>2022-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/cgi/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/posts/shocker/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/rce/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/cryptography/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/posts/brainfuck/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/smtp/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/ssl/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/wordpress/</loc>
+    <lastmod>2022-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/posts/lame/</loc>
+    <lastmod>2022-03-03T12:47:40+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/samba/</loc>
+    <lastmod>2022-03-03T12:47:40+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/posts/</loc>
     <lastmod>2022-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hswootan.github.io/en/about/</loc>
