@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hswootan.github.io/en/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -15,32 +15,32 @@
                 href="https://hswootan.github.io/en/"
                 />
   </url><url>
-    <loc>https://hswootan.github.io/en/tags/freebsd/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <loc>https://hswootan.github.io/en/tags/apache-james/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/default-credentials/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hswootan.github.io/en/series/hackthebox/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hswootan.github.io/en/posts/sense/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hswootan.github.io/en/tags/lighthttpd/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <loc>https://hswootan.github.io/en/posts/solidstate/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hswootan.github.io/en/tags/oscp/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hswootan.github.io/en/tags/pfsense/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <loc>https://hswootan.github.io/en/tags/outdated-software/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hswootan.github.io/en/tags/php/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <loc>https://hswootan.github.io/en/tags/pop/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hswootan.github.io/en/tags/rce/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <loc>https://hswootan.github.io/en/tags/python/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hswootan.github.io/en/series/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -53,7 +53,7 @@
                 />
   </url><url>
     <loc>https://hswootan.github.io/en/tags/</loc>
-    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -64,6 +64,33 @@
                 hreflang="en"
                 href="https://hswootan.github.io/en/tags/"
                 />
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/vulnerability-assessment/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/weak-permissions/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/web/</loc>
+    <lastmod>2022-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/freebsd/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/posts/sense/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/lighthttpd/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/pfsense/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/php/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/rce/</loc>
+    <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hswootan.github.io/en/tags/apache/</loc>
     <lastmod>2022-03-28T00:00:00+00:00</lastmod>
