@@ -12,11 +12,225 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://hswootan.github.io/en/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Hackthebox - Node</title>
+        <link>https://hswootan.github.io/en/posts/node/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 05 Apr 2022 00:00:00 +0000</atom:modified>
+        <guid>https://hswootan.github.io/en/posts/node/</guid>
+        <description>Enumeration 1  nmap -sC -sV 10.10.10.58 -oN node_scan   1 2 3 4 5 6 7 8 9 10 11 12 13  PORT STATE SERVICE VERSION 22/tcp open ssh OpenSSH 7.2p2 Ubuntu 4ubuntu2.2 (Ubuntu Linux; protocol 2.0) | ssh-hostkey: | 2048 dc:5e:34:a6:25:db:43:ec:eb:40:f4:96:7b:8e:d1:da (RSA) | 256 6c:8e:5e:5f:4f:d5:41:7d:18:95:d1:dc:2e:3f:e5:9c (ECDSA) |_ 256 d8:78:b8:5d:85:ff:ad:7b:e6:e2:b5:da:1e:52:62:36 (ED25519) 3000/tcp open hadoop-datanode Apache Hadoop | hadoop-datanode-info: |_ Logs: /login | hadoop-tasktracker-info: |_ Logs: /login |_http-title: MyPlace Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel   1  nmap -A -p- -sC -sV 10.</description>
+        
+        <dc:creator>Hong</dc:creator>
+        <media:content url="https://hswootan.github.io/images/htb-cards/node.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+            
+              <category>OSCP</category>
+            
+          
+            
+              <category>linux</category>
+            
+          
+            
+              <category>javascript</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>web</category>
+            
+          
+            
+              <category>vulnerability assessment</category>
+            
+          
+            
+              <category>security tools</category>
+            
+          
+            
+              <category>reversing</category>
+            
+          
+            
+              <category>authentication</category>
+            
+          
+            
+              <category>nodejs</category>
+            
+          
+            
+              <category>hydra</category>
+            
+          
+            
+              <category>binary exploitation</category>
+            
+          
+            
+              <category>password cracking</category>
+            
+          
+            
+              <category>suid exploitation</category>
+            
+          
+            
+              <category>buffer overflow</category>
+            
+          
+            
+              <category>clear text credentials</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Hackthebox - Solidstate</title>
+        <link>https://hswootan.github.io/en/posts/solidstate/</link>
+        <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 02 Apr 2022 00:00:00 +0000</atom:modified>
+        <guid>https://hswootan.github.io/en/posts/solidstate/</guid>
+        <description>Enumeration 1  nmap -sC -sV -vv 10.10.10.51 -oN solidstate_scan   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  PORT STATE SERVICE REASON VERSION 22/tcp open ssh syn-ack ttl 63 OpenSSH 7.4p1 Debian 10+deb9u1 (protocol 2.0) | ssh-hostkey: | 2048 77:00:84:f5:78:b9:c7:d3:54:cf:71:2e:0d:52:6d:8b (RSA) | ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCp5WdwlckuF4slNUO29xOk/Yl/cnXT/p6qwezI0ye+4iRSyor8lhyAEku/yz8KJXtA+ALhL7HwYbD3hDUxDkFw90V1Omdedbk7SxUVBPK2CiDpvXq1+r5fVw26WpTCdawGKkaOMYoSWvliBsbwMLJEUwVbZ/GZ1SUEswpYkyZeiSC1qk72L6CiZ9/5za4MTZw8Cq0akT7G+mX7Qgc+5eOEGcqZt3cBtWzKjHyOZJAEUtwXAHly29KtrPUddXEIF0qJUxKXArEDvsp7OkuQ0fktXXkZuyN/GRFeu3im7uQVuDgiXFKbEfmoQAsvLrR8YiKFUG6QBdI9awwmTkLFbS1Z | 256 78:b8:3a:f6:60:19:06:91:f5:53:92:1d:3f:48:ed:53 (ECDSA) | ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBISyhm1hXZNQl3cslogs5LKqgWEozfjs3S3aPy4k3riFb6UYu6Q1QsxIEOGBSPAWEkevVz1msTrRRyvHPiUQ+eE= | 256 e4:45:e9:ed:07:4d:73:69:43:5a:12:70:9d:c4:af:76 (ED25519) |_ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMKbFbK3MJqjMh9oEw/2OVe0isA7e3ruHz5fhUP4cVgY 25/tcp open smtp syn-ack ttl 63 JAMES smtpd 2.</description>
+        
+        <dc:creator>Hong</dc:creator>
+        <media:content url="https://hswootan.github.io/images/htb-cards/solidstate.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>OSCP</category>
+            
+          
+            
+              <category>linux</category>
+            
+          
+            
+              <category>apache james</category>
+            
+          
+            
+              <category>pop</category>
+            
+          
+            
+              <category>web</category>
+            
+          
+            
+              <category>vulnerability assessment</category>
+            
+          
+            
+              <category>outdated software</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>default credentials</category>
+            
+          
+            
+              <category>weak permissions</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Hackthebox - Sense</title>
+        <link>https://hswootan.github.io/en/posts/sense/</link>
+        <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 29 Mar 2022 00:00:00 +0000</atom:modified>
+        <guid>https://hswootan.github.io/en/posts/sense/</guid>
+        <description>Enumeration 1  nmap -sC -sV -vv 10.10.10.60 -oN sense   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47  PORT STATE SERVICE REASON VERSION 80/tcp open http syn-ack ttl 63 lighttpd 1.</description>
+        
+        <dc:creator>Hong</dc:creator>
+        <media:content url="https://hswootan.github.io/images/htb-cards/sense.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>OSCP</category>
+            
+          
+            
+              <category>linux</category>
+            
+          
+            
+              <category>freebsd</category>
+            
+          
+            
+              <category>php</category>
+            
+          
+            
+              <category>lighthttpd</category>
+            
+          
+            
+              <category>rce</category>
+            
+          
+            
+              <category>pfsense</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Hackthebox - Nineveh</title>

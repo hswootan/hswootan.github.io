@@ -12,14 +12,320 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 02 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://hswootan.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>Apache James</title>
+        <title>authentication</title>
+        <link>https://hswootan.github.io/en/tags/authentication/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/authentication/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>binary exploitation</title>
+        <link>https://hswootan.github.io/en/tags/binary-exploitation/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/binary-exploitation/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>buffer overflow</title>
+        <link>https://hswootan.github.io/en/tags/buffer-overflow/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/buffer-overflow/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>clear text credentials</title>
+        <link>https://hswootan.github.io/en/tags/clear-text-credentials/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/clear-text-credentials/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Hackthebox</title>
+        <link>https://hswootan.github.io/en/tags/hackthebox/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/hackthebox/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>hydra</title>
+        <link>https://hswootan.github.io/en/tags/hydra/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/hydra/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>javascript</title>
+        <link>https://hswootan.github.io/en/tags/javascript/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/javascript/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>linux</title>
+        <link>https://hswootan.github.io/en/tags/linux/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/linux/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>nodejs</title>
+        <link>https://hswootan.github.io/en/tags/nodejs/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/nodejs/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>OSCP</title>
+        <link>https://hswootan.github.io/en/tags/oscp/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/oscp/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>password cracking</title>
+        <link>https://hswootan.github.io/en/tags/password-cracking/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/password-cracking/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>python</title>
+        <link>https://hswootan.github.io/en/tags/python/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/python/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>reversing</title>
+        <link>https://hswootan.github.io/en/tags/reversing/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/reversing/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>security tools</title>
+        <link>https://hswootan.github.io/en/tags/security-tools/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/security-tools/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>suid exploitation</title>
+        <link>https://hswootan.github.io/en/tags/suid-exploitation/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/suid-exploitation/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>vulnerability assessment</title>
+        <link>https://hswootan.github.io/en/tags/vulnerability-assessment/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/vulnerability-assessment/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>web</title>
+        <link>https://hswootan.github.io/en/tags/web/</link>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/web/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>apache james</title>
         <link>https://hswootan.github.io/en/tags/apache-james/</link>
         <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
         
@@ -37,7 +343,7 @@
       </item>
       
       <item>
-        <title>Default Credentials</title>
+        <title>default credentials</title>
         <link>https://hswootan.github.io/en/tags/default-credentials/</link>
         <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
         
@@ -55,25 +361,7 @@
       </item>
       
       <item>
-        <title>OSCP</title>
-        <link>https://hswootan.github.io/en/tags/oscp/</link>
-        <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-        
-        
-        <guid>https://hswootan.github.io/en/tags/oscp/</guid>
-        <description></description>
-        
-        <dc:creator>Hong Woo</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Outdated Software</title>
+        <title>outdated software</title>
         <link>https://hswootan.github.io/en/tags/outdated-software/</link>
         <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
         
@@ -91,7 +379,7 @@
       </item>
       
       <item>
-        <title>POP</title>
+        <title>pop</title>
         <link>https://hswootan.github.io/en/tags/pop/</link>
         <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
         
@@ -109,66 +397,12 @@
       </item>
       
       <item>
-        <title>Python</title>
-        <link>https://hswootan.github.io/en/tags/python/</link>
-        <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-        
-        
-        <guid>https://hswootan.github.io/en/tags/python/</guid>
-        <description></description>
-        
-        <dc:creator>Hong Woo</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Vulnerability Assessment</title>
-        <link>https://hswootan.github.io/en/tags/vulnerability-assessment/</link>
-        <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-        
-        
-        <guid>https://hswootan.github.io/en/tags/vulnerability-assessment/</guid>
-        <description></description>
-        
-        <dc:creator>Hong Woo</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Weak Permissions</title>
+        <title>weak permissions</title>
         <link>https://hswootan.github.io/en/tags/weak-permissions/</link>
         <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
         
         
         <guid>https://hswootan.github.io/en/tags/weak-permissions/</guid>
-        <description></description>
-        
-        <dc:creator>Hong Woo</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Web</title>
-        <link>https://hswootan.github.io/en/tags/web/</link>
-        <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-        
-        
-        <guid>https://hswootan.github.io/en/tags/web/</guid>
         <description></description>
         
         <dc:creator>Hong Woo</dc:creator>
@@ -367,24 +601,6 @@
         
         
         <guid>https://hswootan.github.io/en/tags/lfi/</guid>
-        <description></description>
-        
-        <dc:creator>Hong Woo</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>linux</title>
-        <link>https://hswootan.github.io/en/tags/linux/</link>
-        <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-        
-        
-        <guid>https://hswootan.github.io/en/tags/linux/</guid>
         <description></description>
         
         <dc:creator>Hong Woo</dc:creator>

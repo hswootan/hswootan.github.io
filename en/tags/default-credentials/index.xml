@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Default Credentials on Hong</title>
+    <title>default credentials on Hong</title>
     <link>https://hswootan.github.io/en/tags/default-credentials/</link>
-    <description>Recent content in Default Credentials on Hong</description>
+    <description>Recent content in default credentials on Hong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2023, All Rights Reserved</copyright>
@@ -38,35 +38,39 @@
             
           
             
-              <category>Apache James</category>
+              <category>linux</category>
             
           
             
-              <category>POP</category>
+              <category>apache james</category>
             
           
             
-              <category>Web</category>
+              <category>pop</category>
             
           
             
-              <category>Vulnerability Assessment</category>
+              <category>web</category>
             
           
             
-              <category>Outdated Software</category>
+              <category>vulnerability assessment</category>
             
           
             
-              <category>Python</category>
+              <category>outdated software</category>
             
           
             
-              <category>Default Credentials</category>
+              <category>python</category>
             
           
             
-              <category>Weak Permissions</category>
+              <category>default credentials</category>
+            
+          
+            
+              <category>weak permissions</category>
             
           
         
