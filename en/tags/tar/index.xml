@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>tar on Hong</title>
+    <link>https://hswootan.github.io/en/tags/tar/</link>
+    <description>Recent content in tar on Hong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://hswootan.github.io/en/tags/tar/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Hackthebox - Tartarsauce</title>
+        <link>https://hswootan.github.io/en/posts/tartarsauce/</link>
+        <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Wed, 13 Apr 2022 00:00:00 +0000</atom:modified>
+        <guid>https://hswootan.github.io/en/posts/tartarsauce/</guid>
+        <description>Enumeration 1  nmap -sV -sC -vv 10.10.10.88 -oN tartartause_scan.txt   1 2 3 4 5 6 7 8 9 10  PORT STATE SERVICE REASON VERSION 80/tcp open http syn-ack ttl 63 Apache httpd 2.4.18 ((Ubuntu)) |_http-server-header: Apache/2.4.18 (Ubuntu) | http-robots.txt: 5 disallowed entries | /webservices/tar/tar/source/ | /webservices/monstra-3.0.4/ /webservices/easy-file-uploader/ |_/webservices/developmental/ /webservices/phpmyadmin/ |_http-title: Landing Page | http-methods: |_ Supported Methods: GET HEAD POST OPTIONSz   Directory Enumeration 1  gobuster dir -u http://10.</description>
+        
+        <dc:creator>Hong</dc:creator>
+        <media:content url="https://hswootan.github.io/images/htb-cards/tartarsauce.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+            
+              <category>OSCP</category>
+            
+          
+            
+              <category>c</category>
+            
+          
+            
+              <category>php</category>
+            
+          
+            
+              <category>apache</category>
+            
+          
+            
+              <category>web</category>
+            
+          
+            
+              <category>vulnerability assessment</category>
+            
+          
+            
+              <category>common applications</category>
+            
+          
+            
+              <category>outdated software</category>
+            
+          
+            
+              <category>wordpress</category>
+            
+          
+            
+              <category>tar</category>
+            
+          
+            
+              <category>web site structure discovery</category>
+            
+          
+            
+              <category>remote file inclusion</category>
+            
+          
+            
+              <category>remote code execution</category>
+            
+          
+            
+              <category>misconfiguration</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
