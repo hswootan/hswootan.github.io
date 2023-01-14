@@ -165,13 +165,28 @@
     <loc>https://hswootan.github.io/en/tags/common-applications/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://hswootan.github.io/en/tags/exploit-modification/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/posts/swagshop/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hswootan.github.io/en/posts/tartarsauce/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/magento/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/magescan/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hswootan.github.io/en/tags/misconfiguration/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hswootan.github.io/en/tags/remote-file-inclusion/</loc>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hswootan.github.io/en/tags/sudo-exploitation/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hswootan.github.io/en/tags/tar/</loc>
@@ -196,9 +211,6 @@
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hswootan.github.io/en/tags/ssh/</loc>
-    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hswootan.github.io/en/tags/sudo-exploitation/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hswootan.github.io/en/tags/user-enumeration/</loc>

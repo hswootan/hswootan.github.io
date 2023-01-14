@@ -613,6 +613,60 @@
       </item>
       
       <item>
+        <title>exploit modification</title>
+        <link>https://hswootan.github.io/en/tags/exploit-modification/</link>
+        <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/exploit-modification/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>magento</title>
+        <link>https://hswootan.github.io/en/tags/magento/</link>
+        <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/magento/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>magescan</title>
+        <link>https://hswootan.github.io/en/tags/magescan/</link>
+        <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/magescan/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>misconfiguration</title>
         <link>https://hswootan.github.io/en/tags/misconfiguration/</link>
         <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
@@ -637,6 +691,24 @@
         
         
         <guid>https://hswootan.github.io/en/tags/remote-file-inclusion/</guid>
+        <description></description>
+        
+        <dc:creator>Hong Woo</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>sudo exploitation</title>
+        <link>https://hswootan.github.io/en/tags/sudo-exploitation/</link>
+        <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://hswootan.github.io/en/tags/sudo-exploitation/</guid>
         <description></description>
         
         <dc:creator>Hong Woo</dc:creator>
@@ -763,24 +835,6 @@
         
         
         <guid>https://hswootan.github.io/en/tags/ssh/</guid>
-        <description></description>
-        
-        <dc:creator>Hong Woo</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>sudo exploitation</title>
-        <link>https://hswootan.github.io/en/tags/sudo-exploitation/</link>
-        <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-        
-        
-        <guid>https://hswootan.github.io/en/tags/sudo-exploitation/</guid>
         <description></description>
         
         <dc:creator>Hong Woo</dc:creator>
