@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>arbitrary file upload on Hong</title>
+    <link>https://hswootan.github.io/en/tags/arbitrary-file-upload/</link>
+    <description>Recent content in arbitrary file upload on Hong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://hswootan.github.io/en/tags/arbitrary-file-upload/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Hackthebox - Devel</title>
+        <link>https://hswootan.github.io/en/posts/devel/</link>
+        <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 10 May 2022 00:00:00 +0000</atom:modified>
+        <guid>https://hswootan.github.io/en/posts/devel/</guid>
+        <description>Enumeration 1 2 3 4 5  nmap -p- 10.10.10.5 PORT STATE SERVICE 21/tcp open ftp 80/tcp open http   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17  nmap -sV -sC -vv -p 21,80 10.10.10.5 -oN devel_scan.txt PORT STATE SERVICE REASON VERSION 21/tcp open ftp syn-ack ttl 127 Microsoft ftpd | ftp-syst: |_ SYST: Windows_NT | ftp-anon: Anonymous FTP login allowed (FTP code 230) | 03-18-17 02:06AM &amp;lt;DIR&amp;gt; aspnet_client | 03-17-17 05:37PM 689 iisstart.</description>
+        
+        <dc:creator>Hong</dc:creator>
+        <media:content url="https://hswootan.github.io/images/htb-cards/devel.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+            
+              <category>OSCP</category>
+            
+          
+            
+              <category>iis</category>
+            
+          
+            
+              <category>asp</category>
+            
+          
+            
+              <category>web</category>
+            
+          
+            
+              <category>network</category>
+            
+          
+            
+              <category>protocols</category>
+            
+          
+            
+              <category>ftp</category>
+            
+          
+            
+              <category>remote code execution</category>
+            
+          
+            
+              <category>arbitrary file upload</category>
+            
+          
+        
+        
+          
+            
+              <category>Windows</category>
+            
+          
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Hackthebox - Networked</title>
+        <link>https://hswootan.github.io/en/posts/networked/</link>
+        <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 26 Apr 2022 00:00:00 +0000</atom:modified>
+        <guid>https://hswootan.github.io/en/posts/networked/</guid>
+        <description>Enumeration 1 2 3 4 5 6  nmap -p- -vv 10.10.10.146 -oN networked_allPort_scan.txt PORT STATE SERVICE REASON 22/tcp open ssh syn-ack ttl 63 80/tcp open http syn-ack ttl 63 443/tcp closed https reset ttl 63   1 2 3 4 5 6 7 8 9 10 11 12  nmap -sV -sC -p 22,80,443 10.10.10.146 -oN networked_specific_scan.txt PORT STATE SERVICE VERSION 22/tcp open ssh OpenSSH 7.4 (protocol 2.</description>
+        
+        <dc:creator>Hong</dc:creator>
+        <media:content url="https://hswootan.github.io/images/htb-cards/networked.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+            
+              <category>OSCP</category>
+            
+          
+            
+              <category>php</category>
+            
+          
+            
+              <category>custom</category>
+            
+          
+            
+              <category>web</category>
+            
+          
+            
+              <category>vulnerability assessment</category>
+            
+          
+            
+              <category>injection</category>
+            
+          
+            
+              <category>source code analysis</category>
+            
+          
+            
+              <category>sudo exploitation</category>
+            
+          
+            
+              <category>os command injection</category>
+            
+          
+            
+              <category>arbitrary file upload</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

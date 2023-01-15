@@ -12,11 +12,103 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 27 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Apr 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://hswootan.github.io/en/tags/sql-injection/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Hackthebox - Jarvis</title>
+        <link>https://hswootan.github.io/en/posts/jarvis/</link>
+        <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 30 Apr 2022 00:00:00 +0000</atom:modified>
+        <guid>https://hswootan.github.io/en/posts/jarvis/</guid>
+        <description>Enumeration 1 2 3 4 5 6  nmap -p- -vv 10.10.10.143 -oN jarvis_allports.txt PORT STATE SERVICE REASON 22/tcp open ssh syn-ack ttl 63 80/tcp open http syn-ack ttl 63 64999/tcp open unknown syn-ack ttl 63   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26  nmap -sV -sC -vv -p 22,80,64999 10.</description>
+        
+        <dc:creator>Hong</dc:creator>
+        <media:content url="https://hswootan.github.io/images/htb-cards/jarvis.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+            
+              <category>OSCP</category>
+            
+          
+            
+              <category>apache</category>
+            
+          
+            
+              <category>web</category>
+            
+          
+            
+              <category>vulnerability assessment</category>
+            
+          
+            
+              <category>injection</category>
+            
+          
+            
+              <category>common security controls</category>
+            
+          
+            
+              <category>bash</category>
+            
+          
+            
+              <category>web site structure discovery</category>
+            
+          
+            
+              <category>waf bypass</category>
+            
+          
+            
+              <category>suid exploitation</category>
+            
+          
+            
+              <category>sudo exploitation</category>
+            
+          
+            
+              <category>sql injection</category>
+            
+          
+            
+              <category>os command injection</category>
+            
+          
+            
+              <category>misconfiguration</category>
+            
+          
+        
+        
+          
+            
+              <category>Linux</category>
+            
+          
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Hackthebox - Cronos</title>
