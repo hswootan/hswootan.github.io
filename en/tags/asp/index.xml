@@ -12,11 +12,179 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2023, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://hswootan.github.io/en/tags/asp/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Hackthebox - Silo</title>
+        <link>https://hswootan.github.io/en/posts/silo/</link>
+        <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 06 Jun 2022 00:00:00 +0000</atom:modified>
+        <guid>https://hswootan.github.io/en/posts/silo/</guid>
+        <description>Exploitation 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18  nmap -sS -p- --vv 10.10.10.82 PORT STATE SERVICE REASON 80/tcp open http syn-ack ttl 127 135/tcp open msrpc syn-ack ttl 127 139/tcp open netbios-ssn syn-ack ttl 127 445/tcp open microsoft-ds syn-ack ttl 127 1521/tcp open oracle syn-ack ttl 127 5985/tcp open wsman syn-ack ttl 127 47001/tcp open winrm syn-ack ttl 127 49152/tcp open unknown syn-ack ttl 127 49153/tcp open unknown syn-ack ttl 127 49154/tcp open unknown syn-ack ttl 127 49155/tcp open unknown syn-ack ttl 127 49159/tcp open unknown syn-ack ttl 127 49160/tcp open unknown syn-ack ttl 127 49161/tcp open unknown syn-ack ttl 127 49162/tcp open unknown syn-ack ttl 127   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48  nmap -sV -sC -vv -p 80,135,139,445,1521,5985,47001,49152,49153,49154,49155,49159,49160,49161,49162 10.</description>
+        
+        <dc:creator>Hong</dc:creator>
+        <media:content url="https://hswootan.github.io/images/htb-cards/silo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>OSCP</category>
+            
+          
+            
+              <category>asp</category>
+            
+          
+            
+              <category>iis</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>web</category>
+            
+          
+            
+              <category>network</category>
+            
+          
+            
+              <category>vulnerability assessment</category>
+            
+          
+            
+              <category>databases</category>
+            
+          
+            
+              <category>protocols</category>
+            
+          
+            
+              <category>security tools</category>
+            
+          
+            
+              <category>oracle</category>
+            
+          
+            
+              <category>odat</category>
+            
+          
+            
+              <category>reconnaissance</category>
+            
+          
+            
+              <category>brute force attack</category>
+            
+          
+            
+              <category>arbitrary file read</category>
+            
+          
+            
+              <category>default credentials</category>
+            
+          
+        
+        
+          
+            
+              <category>Windows</category>
+            
+          
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Hackthebox - Grandpa</title>
+        <link>https://hswootan.github.io/en/posts/grandpa/</link>
+        <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Fri, 03 Jun 2022 00:00:00 +0000</atom:modified>
+        <guid>https://hswootan.github.io/en/posts/grandpa/</guid>
+        <description>Enumeration 1 2 3 4  nmap -sS -p- --vv 10.10.10.14 PORT STATE SERVICE REASON 80/tcp open http syn-ack ttl 127   1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16  nmap -sV -sC -vv -p 80 10.10.10.14 -oN grandpa_scan.txt PORT STATE SERVICE REASON VERSION 80/tcp open http syn-ack ttl 127 Microsoft IIS httpd 6.0 |_http-title: Under Construction |_http-server-header: Microsoft-IIS/6.</description>
+        
+        <dc:creator>Hong</dc:creator>
+        <media:content url="https://hswootan.github.io/images/htb-cards/grandpa.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>OSCP</category>
+            
+          
+            
+              <category>iis</category>
+            
+          
+            
+              <category>asp</category>
+            
+          
+            
+              <category>webdav</category>
+            
+          
+            
+              <category>web</category>
+            
+          
+            
+              <category>vulnerability assessment</category>
+            
+          
+            
+              <category>outdated software</category>
+            
+          
+            
+              <category>reconnaissance</category>
+            
+          
+            
+              <category>arbitrary file upload</category>
+            
+          
+            
+              <category>misconfiguration</category>
+            
+          
+        
+        
+          
+            
+              <category>Windows</category>
+            
+          
+        
+        
+          
+            
+              <category>Hackthebox</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Hackthebox - Granny</title>
@@ -32,10 +200,6 @@
         
         
         
-          
-            
-              <category>Hackthebox</category>
-            
           
             
               <category>OSCP</category>
@@ -108,10 +272,6 @@
         
         
         
-          
-            
-              <category>Hackthebox</category>
-            
           
             
               <category>OSCP</category>
